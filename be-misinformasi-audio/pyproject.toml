@@ -1,0 +1,18 @@
+[project]
+name = "be-misinformasi-audio"
+version = "0.1.0"
+description = "FastAPI inference service for deepfake audio detection using MFCC/LFCC/CQT ensemble models"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.136.1",
+    "keras==3.13.2",
+    "librosa>=0.11.0",
+    "numpy>=1.26.0",
+    "pydub>=0.25.1",
+    "python-multipart>=0.0.28",
+    "scipy>=1.17.1",
+    "soundfile>=0.13.1",
+    "tensorflow>=2.21.0",
+    "uvicorn[standard]>=0.47.0",
+]
