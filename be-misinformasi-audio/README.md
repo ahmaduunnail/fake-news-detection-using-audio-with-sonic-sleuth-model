@@ -1,5 +1,9 @@
 # Misinformasi Audio Backend
 
+> [!IMPORTANT]  
+> Tolong untuk download model terlebh dahulu, cukuo di unzip di folder ini, nanti akan muncul folder '/models'.
+
+
 FastAPI backend for audio deepfake/misinformation inference using the existing
 Keras models in `models/`.
 
