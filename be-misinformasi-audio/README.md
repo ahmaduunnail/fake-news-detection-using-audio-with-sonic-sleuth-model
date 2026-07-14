@@ -1,7 +1,9 @@
 # Misinformasi Audio Backend
 
 > [!IMPORTANT]  
-> Tolong untuk download model terlebh dahulu, cukuo di unzip di folder ini, nanti akan muncul folder '/models'.
+> Tolong untuk download model terlebh dahulu, cukuo di unzip di folder ini, nanti akan muncul folder '/models'
+>
+> https://drive.google.com/file/d/1dyRN-xzrsyqR6WnGynnBK_P56eD431C2/view?usp=sharing.
 
 
 FastAPI backend for audio deepfake/misinformation inference using the existing
